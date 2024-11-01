@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+In this application, it displays questions and you answer them, while displaying a page with your answers
 
 ## Getting Started
 
